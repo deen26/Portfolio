@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    background-color: grey;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px,10%;
+}
+nav{
+    text-decoration: none;
+
+}
+li{
+    display: inline-block;
+}
+a:hover{
+    color: #7fff7f;
+}
